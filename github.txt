@@ -1,0 +1,13 @@
+git init
+
+git status
+
+git add o_que_e_etl.md
+
+git commit -m "primeiro envio"
+
+git branch -M main
+
+git remote add origin https://github.com/RodrigoMDM/aluratest.git
+_________________________________________________________________
+
